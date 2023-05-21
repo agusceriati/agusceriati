@@ -18,7 +18,7 @@
    <li>GITHUB</li>
    <li>FIGMA</li>
 
-<h2>- 🌱 Currently learning: </h2>
+<h2>🌱 Currently learning: </h2>
     
    <li> -Introduction to JavaScript at CAC bootcamp, and Python as self-taught-</li>  
 
