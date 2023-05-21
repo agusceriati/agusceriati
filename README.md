@@ -11,15 +11,17 @@
 
      
 <h2>💻 Technologies I am familiar with: </h2>
-    
-   <li>
-    HTML5 | CSS3 | Responsive design | Git | GitHub | Figma</li>
+  <li>HTML5</li>
+   <li>CSS3</li>
+   <li>Responsive design</li>
+   <li>GIT</li>
+   <li>GITHUB</li>
+   <li>FIGMA</li>
 </ul>
      
 <h2>🌱 Currently learning:<h2>    
-   <li>
-    An introduction to JavaScript at CAC bootcamp, and Python as self-taught.  </li>
-</ul>
+   <li> An introduction to JavaScript at CAC bootcamp, and Python as self-taught.  </li>
+
 <h2>🎯Goals:</h2>
    <li>
     My personal goalis to continue growing and developing as a Developer. I want to gain more knowledge and experience.  </li>
