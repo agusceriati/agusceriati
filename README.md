@@ -26,7 +26,7 @@
   
 
 <h2>🎯Goals:</h2>
-   <li>My personal goal is to continue growing and improving my skills as a Developer. I want to gain more knowledge and experience.</li>
+   <li>My personal goal is to keep growing and improving my skills as a Developer. I want to gain more knowledge and experience in this wonderful career.</li>
      
 
 
