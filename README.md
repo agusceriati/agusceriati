@@ -20,7 +20,7 @@
 </ul>
      
 <h2>🌱 Currently learning:<h2>    
-   <li> An introduction to JavaScript at CAC bootcamp, and Python as self-taught.  </li>
+    <p> An introduction to JavaScript at CAC bootcamp, and Python as self-taught. </p>
 
 <h2>🎯Goals:</h2>
    <li>My personal goalis to continue growing and developing as a Developer. I want to gain more knowledge and experience.</li>
