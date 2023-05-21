@@ -18,10 +18,12 @@
    <li>GITHUB</li>
    <li>FIGMA</li>
 
-     
-- 🌱 Currently learning:
+<h2>- 🌱 Currently learning: </h2>
+    
+   <li> -Introduction to JavaScript at CAC bootcamp, and Python as self-taught-</li>  
 
-  -Introduction to JavaScript at CAC bootcamp, and Python as self-taught-
+
+  
 
 <h2>🎯Goals:</h2>
    <li>My personal goalis to continue growing and developing as a Developer. I want to gain more knowledge and experience.</li>
