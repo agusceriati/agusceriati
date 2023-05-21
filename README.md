@@ -19,8 +19,9 @@
    <li>FIGMA</li>
 
      
-<h2>🌱 Currently learning:<h2> 
-    <p> An introduction to JavaScript at CAC bootcamp, and Python as self-taught. </p>
+- 🌱 Currently learning:
+
+  -Introduction to JavaScript at CAC bootcamp, and Python as self-taught-
 
 <h2>🎯Goals:</h2>
    <li>My personal goalis to continue growing and developing as a Developer. I want to gain more knowledge and experience.</li>
