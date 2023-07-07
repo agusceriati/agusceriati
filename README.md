@@ -13,20 +13,21 @@
 <h2>💻 Technologies I am familiar with: </h2>
   <li>HTML5</li>
    <li>CSS3</li>
-   <li>Responsive design</li>
+   <li>JavaScript</li>
+   <li>Python</li>
    <li>GIT</li>
    <li>GITHUB</li>
    <li>FIGMA</li>
 
 <h2>🌱 Currently learning: </h2>
     
-   <li> -Introduction to JavaScript at CAC bootcamp, and Python as self-taught.</li>  
+   <li> - Improving my skills with JavaScript and Python as self-taught.</li>  
 
 
   
 
 <h2>🎯Goals:</h2>
-   <li>My personal goal is to keep growing and improving my skills as a Developer. I want to gain more knowledge and experience in this wonderful career.</li>
+   <li>My personal goal is to keep learning and improving my skills as a Developer. I want to gain more knowledge and experience in this amazing world of technology.</li>
      
 
 
