@@ -1,6 +1,6 @@
 <h1>Hi there🙋🏻‍♂️</h1>
 
-<p>My name is @agusceriati, I'm 20 years old and I am a Full Stack Development student currently enrolled at Codo a Codo Bootcamp. I am preparing myself to face new challenges!.
+<p>My name is @agusceriati, I'm 23 years old and I am a Data Analysis student. I am preparing myself to face new challenges!.
 </p> 
 
 <h2>👀 About me: </h2>
